@@ -1,6 +1,6 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; font-size: 0; width: 100%;">
   <div style="display: flex; width: 100%; margin-bottom: 10px; align-items: center;">
-    <div style="width: 10%; font-size: 16px; font-weight: bold; color: #333; text-align: center;">1:</div>
+    <div style="width: 5%; font-size: 16px; font-weight: bold; color: #333; text-align: center;">1:</div>
     <div style="display: flex; flex-wrap: wrap; width: 90%;">
       <img src="1746795297185.png" style="width: 15%; height: auto; margin-bottom: 2px;">
       <img src="1746800057425.png" style="width: 15%; height: auto; margin-bottom: 2px;">
@@ -11,7 +11,7 @@
     </div>
   </div>
   <div style="display: flex; width: 100%; margin-bottom: 10px; align-items: center;">
-    <div style="width: 10%; font-size: 16px; font-weight: bold; color: #333; text-align: center;">2:</div>
+    <div style="width: 5%; font-size: 16px; font-weight: bold; color: #333; text-align: center;">2:</div>
     <div style="display: flex; flex-wrap: wrap; width: 90%;">
       <img src="1746800012289.png" style="width: 15%; height: auto; margin-bottom: 2px;">
       <img src="1746800049271.png" style="width: 15%; height: auto; margin-bottom: 2px;">
