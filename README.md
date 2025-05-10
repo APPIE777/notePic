@@ -1,3 +1,3 @@
 # notePic
-> [TravelFrog.md](TravelFrog/TravelFrog.md)
+> [TravelFrog](TravelFrog/TravelFrog.md)
 
