@@ -70,71 +70,72 @@ Travel Frog
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">7</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
       <img src="1746800055806.png" style="width: 16%; height: auto; margin-bottom: 2px;">
+      <img src="1747361170496.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746795300340.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800042644.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800010666.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1747010730828.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746798224405.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">8</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746798224405.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800017406.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746799991739.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746798226876.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746798194808.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1747096918442.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746798205317.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">9</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746798205317.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746876784014.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800005065.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746798192091.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800001694.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800008946.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746800015727.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">10</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746800015727.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1747010727901.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746798217457.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746795303005.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800020883.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746799988329.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746798202958.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">11</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746798202958.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800052607.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746846404003.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800050950.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1747271201766.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746798197559.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746799993406.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">12</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746799993406.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800014022.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746799990038.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800035919.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800003360.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746795310193.png" style="width: 16%; height: auto; margin-bottom: 2px;">
-      <img src="1746798222203.png" style="width: 16%; height: auto; margin-bottom: 2px;">
     </td>
   </tr>
   <tr>
     <td style="width: 3%; font-size: 16px; font-weight: bold; color: #FF6536; text-align: center;">13</td>
     <td style="width: 97%; display: flex; flex-wrap: wrap;">
+      <img src="1746798222203.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800019097.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800045882.png" style="width: 16%; height: auto; margin-bottom: 2px;">
       <img src="1746800059053.png" style="width: 16%; height: auto; margin-bottom: 2px;">
